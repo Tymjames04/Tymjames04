@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning as much as I can
 - 🌱 I’m currently learning HTML, Python, Swift, C++, and more!
 - 💞️ I’m looking to collaborate on personal projects that take me out of my comfort zone
-- 📫 You can reach me at
+- 📫 You can reach me at contact@chompinz.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Im studying computer engineering at the Univerity of Kansas
 
