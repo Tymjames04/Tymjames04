@@ -7,11 +7,12 @@
 
 - ⚡ I'm currently improving **my embedded systems skills**
 
-- 📫 How to reach me **contact@tylerjamestech.com**
+- 📫 How to reach me: **contact@tylerjamestech.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tylerjames04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/tylerjames04/" height="30" width="40" /></a>
+<a href="https://instagram.com/tymjames04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tymjames04/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
