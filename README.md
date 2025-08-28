@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my portfolio website](https://github.com/Tymjames04/Tymjames04.github.io)
 
-- 🌱 I’m currently learning **HTML and C#**
+- 🌱 I’m currently learning **HTML and JavaScript**
 
 - ⚡ I'm currently improving **my embedded systems skills**
 
