@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Tyler James</h1>
+<h1 align="left">Hello, I'm Tyler James</h1>
 <h3 align="left">An aspiring computer engineer studying at The University of Kansas</h3>
 
 - 🔭 I’m currently working on [my portfolio website](https://github.com/Tymjames04/Tymjames04.github.io)
